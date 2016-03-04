@@ -3,5 +3,10 @@
         "command": "bin/daemon.php",
         "process_name": "%(program_name)s_%(process_num)02d",
         "numprocs": 2
+    },
+    "goodbye-world": {
+        "command": "bin/daemon.php",
+        "process_name": "%(program_name)s_%(process_num)02d",
+        "numprocs": 2
     }
 }
