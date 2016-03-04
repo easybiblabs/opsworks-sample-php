@@ -1,4 +1,4 @@
 <?php 
-	print_r($_SERVICE);
+	print_r($_SERVER);
         echo '<hr/>';
 	phpinfo();
